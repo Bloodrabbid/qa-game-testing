@@ -6,6 +6,8 @@
 
 Общая база (тест-дизайн, артефакты, API): [qa-software-testing](https://github.com/Bloodrabbid/qa-software-testing).
 
+**Дополнения сверх книги** (помечены в скилле **[вне книги]**, источники — в конце `SKILL.md`): профилирование в Godot 4, сетевая игра и симуляция плохой сети, доступность по Game Accessibility Guidelines и Xbox Accessibility Guidelines, критерии Steam Deck Verified, типовые причины провала консольной сертификации, сохранения, внутриигровые покупки, плейтест vs QA, автотесты GUT / GdUnit4 / Unity Test Framework.
+
 ## Установка
 
 Скопируй `SKILL.md` в папку скиллов Claude (например, `~/.claude/skills/qa-game-testing/SKILL.md`) или загрузи в настройках Claude.
